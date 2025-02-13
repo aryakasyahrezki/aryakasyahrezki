@@ -1,7 +1,8 @@
-## Hi there 👋
-
+## Hi, I'm Aryaka 👋 
+![dog](https://github.com/user-attachments/assets/255cba97-edc5-4232-bd73-39b6a69109c2)
 <!--
 **aryakasyahrezki/aryakasyahrezki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
